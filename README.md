@@ -1,13 +1,13 @@
 <h1 align="center">IBM Data Science Professional Certificate</h1>
 <p align="center">
-Notebooks from IBM Data Science Professional Badge.
+Notebooks from IBM Data Science Professional by Coursera.
 </p>
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/39946753/94962701-8263de80-0514-11eb-9a2f-7a0a7208eeb0.png" width="30%" height="30%" title="Deep Learning AI Specialization Certificate" >
 </p>
 
-#IBM Data Science Professional Certificate
+<h1 align="center">IBM Data Science Professional Certificate</h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/39946753/94962530-3a44bc00-0514-11eb-99dc-deb7f451396c.jpeg" width="70%" height="60%" title="learning scope" >
