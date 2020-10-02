@@ -2,7 +2,7 @@
 <p align="center">
 Notebooks from IBM Data Science Professional by Coursera.
 </p>
-
+<h1 align="center">IBM Data Science Professional Badge</h1>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/39946753/94962701-8263de80-0514-11eb-9a2f-7a0a7208eeb0.png" width="30%" height="30%" title="Deep Learning AI Specialization Certificate" >
 </p>
